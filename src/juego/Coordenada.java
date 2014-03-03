@@ -1,5 +1,5 @@
 package juego;
-
+//Esto es una mierda
 public class Coordenada {
 
 	private int x;
